@@ -107,8 +107,8 @@ Setelah labirin perfect dibuat, sejumlah dinding acak dihancurkan untuk membuat 
 
 | NIM | Nama |
 |---|---|
-| 2505551088 | Ngakan Ketut Kutha Giri Prasetia |
-| 2505551163 | Andika Septianantha |
+| 2505551088 | [Ngakan Ketut Kutha Giri Prasetia](https://github.com/24girip) |
+| 2505551163 | [Andika Septianantha](https://github.com/andikaseptianantha) |
 
 ---
 
