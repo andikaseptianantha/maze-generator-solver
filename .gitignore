@@ -1,0 +1,36 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+maze
+maze.exe
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Fonts
+*.TTF
+*.ttf
+*.otf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
